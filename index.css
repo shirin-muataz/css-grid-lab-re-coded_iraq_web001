@@ -11,6 +11,7 @@ body {
   /* your properties here */
   display: grid;
   grid-auto-rows: 50px;
+  grid-gap:5px;
 }
 
 .grid-item {
